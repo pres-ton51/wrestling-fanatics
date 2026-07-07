@@ -5,7 +5,7 @@ p {font-family: arial}
 body {text-align:center;}
 #subscribe {margin: -80px}
 h2 {font-size: 40px; text-align: left}
-h3 {font-size: 15px; text-align: left}
+h3 {font-size: 15px; text-align: left; max-width: 50em;}
 #about-me {display:flow-root;}
 #screenshot { float:right;margin-left: 1em;}
 .video {margin-top: 2em;transition: transform 0.3s,filter 0.3s;}
