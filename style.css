@@ -17,3 +17,8 @@ h4{font-size: 40px ;margin: -10px;}
 body {
   background-image: url("https://img.magnific.com/free-vector/zigzag-lines-pattern-black-background_1017-37483.jpg?semt=ais_hybrid&w=740&q=80"); background-attachment: fixed;
 }
+#contact {align-items: start;}
+
+button{border-color: black; border-width:3px;}
+
+#fillin{border-width: 20px ; border-color: black;}
